@@ -7,3 +7,9 @@ export default defineConfig({
     allowedHosts: true,
   },
 });
+
+import { defineConfig } from 'vite'
+
+export default defineConfig({
+  base: '/dsadcxz/',
+})
